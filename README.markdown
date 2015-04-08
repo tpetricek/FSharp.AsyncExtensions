@@ -1,11 +1,9 @@
----
 
 > **NOTE:** This project is no longer maintained. Please use/contribute to the following two projects instead: 
 >
 > * [FSharp.Core.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) contains asynchronous sequences
 > * [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) contains other helpers from this repo (agents, `AwaitObservable`, etc.)
 
----
 
 F# Async Extensions [ARCHIVED]
 =======================
