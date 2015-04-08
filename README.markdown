@@ -3,7 +3,9 @@
 >
 > * [FSharp.Core.AsyncSeq](https://github.com/fsprojects/FSharp.Control.AsyncSeq) contains asynchronous sequences
 > * [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) contains other helpers from this repo (agents, `AwaitObservable`, etc.)
-
+>
+> I'm leaving this repo here in its original form, in case there is something else here that has not been moved
+> elsewhere, but I will not be accepting pull requests or maintaining it in any way. 
 
 F# Async Extensions [ARCHIVED]
 =======================
